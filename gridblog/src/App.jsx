@@ -18,7 +18,7 @@ export default class App extends React.Component {
     super(props);
     this.state = {
       // Initial posts so the page starts with content.
-      // To do: Added three 3 initial post
+      // To do: Added three initial post
       posts: [
         {
           id: makeId(),
